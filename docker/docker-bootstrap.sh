@@ -18,7 +18,7 @@
 
 set -eo pipefail
 
-REQUIREMENTS_LOCAL="/app/docker/requirements-local.txt"
+REQUIREMENTS_LOCAL="/app/docker/requirements.txt"
 # If Cypress run – overwrite the password for admin and export env variables
 if [ "$CYPRESS_CONFIG" == "true" ]; then
     export SUPERSET_CONFIG=tests.integration_tests.superset_test_config
