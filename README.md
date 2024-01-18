@@ -1,6 +1,6 @@
 # setup
 
-This configuration runs on superset version `2.1.0` I found it more stable at the time in my initial commit. 
+This configuration runs on superset version `2.1.0` I found it more stable at the time of my initial commit. 
 
 Edit the `superset_config_docker.py` for custom modifications
 
