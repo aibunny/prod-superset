@@ -18,3 +18,6 @@ DATABASE_DIALECT=postgresql
 ```
 
 Also added `requirements.txt` file in the `docker/` folder edit this for more custom python packages
+
+
+Run the project using `docker-compose up` then access it at `localhost:8080`
