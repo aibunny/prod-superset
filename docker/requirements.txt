@@ -1,0 +1,3 @@
+#Incase you will need mysql uncomment this to install mysql drivers
+# mysqlclient
+# mysql-connector-python
